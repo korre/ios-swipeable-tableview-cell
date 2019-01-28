@@ -29,7 +29,8 @@ self.backSideView = view
 ```
 
 Now you should be all setup and the swipe to reveal should work.
-NB. The back view needs to be able to set its width for the SwipeableTableViewCell to be able to do the measuring. So don't forget to set all the contraints properly.
+<br><br>
+*NB. The back view needs to be able to measure its width for the SwipeableTableViewCell to be able to lay it out properly. So don't forget to set all the contraints needed to obtain the width.*
 
 ## Example code
 Example code is provided. Checkout the code and run the project on a device or simulator.
