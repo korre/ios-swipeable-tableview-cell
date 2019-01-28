@@ -2,8 +2,7 @@
 ![](https://media.giphy.com/media/cRMhd8NacKpGJ3qF54/giphy.gif)
 
 Swipeable table view cell that might hide some actions or a custom view of your choosing.
-
-Simple class to extend with your table view cell to get "swipe to reveal" functionality.
+Simple class to extend with your table view cell to get "swipe to reveal" functionality and with the ability to have any `UIView` as a back side view.
 
 ## How to use
 
